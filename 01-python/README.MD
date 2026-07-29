@@ -5,7 +5,7 @@
 #- Aprender Python
 #- Criar scripts de automação
 #- Desenvolver scripts para infraestrutura
-#- Desenvolver scripts voltados para Cybersecurity
+#- Desenvolver scripts voltados para Cybersecurity aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 #teste
