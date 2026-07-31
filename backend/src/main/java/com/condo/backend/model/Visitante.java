@@ -2,10 +2,10 @@ package com.condo.backend.model;
 
 import java.util.Date;
 
-public class Visitantes {
+public class Visitante {
 
-    private String Nome;
-    private int Documento;
-    private int Apartamento;
-    Date dataHora;
+    private String nome;
+    private String documento;
+    private Apartamento apartamento;
+    private Date dataHora;
 }
